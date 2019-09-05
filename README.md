@@ -17,10 +17,12 @@
 
 It should look something like this: 
 
+#'My First Github Assignment' 
+
 1. Name:
-  * Arnon Lieber
+  * **Juliana Remark** 
 2. 
-  * 
-3. 
+  *Core IM Podcast*  
+3. [link to Github](https://github.com/Julianaremark)
 
 Once you are done, commit your changes, and push to GitHub. 
